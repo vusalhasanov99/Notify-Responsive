@@ -1,36 +1,3 @@
-/* @media screen and (max-width:768px) {
-    .container {
-        width: 80%;
-    }
- 
-    .header {
-        height: 100%;
-    }
-    .header-text {
-        padding-top: 10px;
-    }
-
-    .png-img {
-        display: none;
-    }
-
-    .icons {
-        flex-wrap: wrap;
-        width: 100%;
-    }
-
-    .icons p {
-        width: 15%;
-    }
-
-    .icons img {
-        width: 100%;
-    }
-
-
-
-} */
-
 @media screen and (max-width:992px){
     .icons{
         flex-wrap: wrap;
@@ -79,10 +46,6 @@
         width: 30%;
       }
 }
-
-
-
-
 @media screen and (max-width:768px){
     .header{
         height: 100%;
@@ -93,10 +56,8 @@
     .header-text .icons div{
         width: 100%;
         padding-left: 35%;
-
     }
- 
-    .item{
+     .item{
         width: 100%;
     }
     .update {
@@ -119,5 +80,4 @@
        .footer ul li{
         width: 35%;
       }
-      
 }
